@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   },
   percentage: {
     fontWeight: "bold",
-    fontSize: 18,
+    fontSize: 17.5,
   },
   label: {
     color: "#777",
