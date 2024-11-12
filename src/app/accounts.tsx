@@ -1,9 +1,11 @@
-import { View, Text } from "react-native";
+import { View } from "react-native";
+
+import AccountsList from "../components/AccountsList";
 
 export default function AccountsScreen() {
   return (
-    <View>
-      <Text>Accounts</Text>
-    </View>
+    <>
+      <AccountsList />
+    </>
   );
 }
