@@ -1,5 +1,6 @@
 {
   "name": "profitfirst",
+  "scheme": "profitfirst",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
